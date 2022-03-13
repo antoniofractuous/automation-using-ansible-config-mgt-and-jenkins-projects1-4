@@ -221,7 +221,7 @@ Now, it is time to execute the ansible-playbook command and verify that our play
 
 **NOTE:** We ran the previous command without sudo, this is because we had added an ssh key to ssh-agent for our regular user. If we try to run this command with sudo we will have to explicitly pass the ssh key with the private-key `<path-to-private-key>` parameter.
 
-We can see that our playbook works:
+**We can see that our playbook works:**
 
 ![playbook](./images/playbook-automation4.png)
 
