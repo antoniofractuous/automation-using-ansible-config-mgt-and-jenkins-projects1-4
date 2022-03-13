@@ -136,13 +136,13 @@ Within the playbooks folder, we create our first playbook, and name it "common.y
 
 `touch common.yml`
 
-Within the inventory folder, we create an inventory file for each environment (Development, Staging, Testing and Production) dev, staging, uat, and prod respectively:
+Within the inventory folder, we create an inventory file for our Development environment (Staging, Testing and Production environments will be implemented in subsequent projects):
 
 `cd ..`
 
 `cd inventory`
 
-`touch dev.yml staging.yml uat.yml prod.yml`
+`touch dev.yml`
 
 ## Setting up an Ansible Inventory
 
