@@ -24,8 +24,6 @@ Project 4: https://github.com/Antonio447-cloud/SSL-TLS-cryptographic-protocol-ne
 
 - Create an Ansible playbook to automate the servers configuration.
 
-**NOTE**: *Playbooks tell Ansible what to execute.*
-
 ## Install and Configure Ansible on EC2 Instance
 
 First, we need to update the name tag on our Jenkins Instance to "Jenkins-Ansible". We will use this instance to run playbooks. Then on our GitHub account, we create a new repository and name it "automation-using-ansible-config-mgt-and-jenkins".
