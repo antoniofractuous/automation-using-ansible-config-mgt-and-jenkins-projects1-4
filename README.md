@@ -1,6 +1,6 @@
 # Ansible Configuration Management Automation
 
-*Demonstration of how to automate routine tasks by integrating Ansible Configuration Management with Jenkins at the same time we write code using a data serialization language called YAML. The source code used on this project was retrieved from darey.io.*
+*Demonstration of how to automate routine tasks by integrating Ansible Configuration Management with Jenkins at the same time we write code using a data serialization language called YAML.*
 
 *We will use Ansible Configuration Management to automate routine tasks of the 4 projects we have been working on so far:*
 
